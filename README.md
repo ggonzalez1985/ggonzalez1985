@@ -11,6 +11,26 @@ Me enfoco en el desarrollo de aplicaciones web con un enfoque en ASP.NET WebForm
 - 👯 Estoy buscando colaborar en proyectos que impliquen el uso de tecnologías modernas, especialmente en el ámbito de .NET.
 - 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/ggonzalez1985/) o por email en gabrielgonzalez1985@gmail.com.
 
+## 📊 Estadísticas de GitHub y 🌟 Racha de Contribuciones
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ggonzalez1985">
+          <img src="https://github-readme-stats.vercel.app/api?username=ggonzalez1985&show_icons=true&count_private=true&theme=radical" alt="Gabriel's GitHub stats" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ggonzalez1985">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggonzalez1985&theme=dark" alt="GitHub Streak" width="400" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## 💻 Herramientas y tecnologías...
 - **Lenguajes:** C#, SQL
 - **Frameworks:** ASP.NET WebForms, .NET Framework 4.8
@@ -77,5 +97,10 @@ Me enfoco en el desarrollo de aplicaciones web con un enfoque en ASP.NET WebForm
     </tr>
   </tbody>
 </table>
+
+
+
+
+
 
 
