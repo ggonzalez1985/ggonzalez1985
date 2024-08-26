@@ -1,8 +1,8 @@
 ![Portafolio](https://drive.google.com/uc?export=view&id=1pi7tGIkCll2ZTC6QIuQMgFw4Ymmoq1Fx)
 
-## Holaaa...! Soy Gabriel M. González👋🏻
+## Holaaa...! Soy Gabriel...👋🏻
 
-## Acerca de mí
+## Acerca de mí...
 Soy Licenciado en Sistemas, especializado en el desarrollo .NET. 
 Me enfoco en el desarrollo de aplicaciones web con un enfoque en ASP.NET WebForms y .NET Framework 4.8, utilizando SQL Server como base de datos, y gestiono mis proyectos en GitHub.
 
@@ -11,13 +11,13 @@ Me enfoco en el desarrollo de aplicaciones web con un enfoque en ASP.NET WebForm
 - 👯 Estoy buscando colaborar en proyectos que impliquen el uso de tecnologías modernas, especialmente en el ámbito de .NET.
 - 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/ggonzalez1985/) o por email en gabrielgonzalez1985@gmail.com.
 
-## 💻 Herramientas y tecnologías:
+## 💻 Herramientas y tecnologías...
 - **Lenguajes:** C#, SQL
 - **Frameworks:** ASP.NET WebForms, .NET Framework 4.8
 - **Bases de datos:** SQL Server
 - **Otros:** JavaScript, HTML, CSS, Git, Jira
 
-## 🔗 Mis Redes Sociales
+## 🔗 Mis Redes Sociales...
 
 <div align="left">
 
@@ -26,7 +26,7 @@ Me enfoco en el desarrollo de aplicaciones web con un enfoque en ASP.NET WebForm
 
 </div>
 
-## 📩 Contacto 
+## 📩 Contacto... 
 
 <div align="left">
 
