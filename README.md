@@ -32,43 +32,44 @@ Me enfoco en el desarrollo de aplicaciones web con un enfoque en ASP.NET WebForm
 
 </div>
 
-## 🎞️ Videos de Proyectos
+## 🎞️ Videos de Proyectos...
 
 <table>
   <tbody>
     <tr>
       <td width="50%">
         <div align="center">
-          <h3 align="center">Video Proyecto 1</h3>
-          <a href="https://github.com/ggonzalez1985/TPFinalNivel3_Gonzalez.git">
+          <h3 align="center">Aplicación Web con ASP.NET WebForms</h3>
+          <a href="https://www.youtube.com/watch?v=O-NJLU6kEts">
             <img src="https://drive.google.com/uc?export=view&id=1ToJ3l52RM3ifiQ1rHkWKJElduvJSTJf0" width="400" alt="Video Proyecto 1" style="max-width: 100%; border: 2px solid #000; border-radius: 8px;">
           </a>
           <p>
             <a href="https://github.com/ggonzalez1985/TPFinalNivel3_Gonzalez.git">
               <img src="https://img.shields.io/badge/C%C3%93DIGO-00FBFF?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="GitHub Project 1" style="max-width: 100%;">
             </a>
-            <a href="https://www.youtube.com/watch?v=SLwDc7Ksgps">
+            <a href="https://www.youtube.com/watch?v=O-NJLU6kEts">
               <img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&amp;color=FF0000" alt="YouTube Video 1" style="max-width: 100%;">
             </a>
           </p>
-          <p>Aprende sobre el proyecto 1 con un <strong>video detallado</strong> y explora el <strong>código fuente</strong> en GitHub.</p>
+          <p>Gestión de Artículos en una Aplicación Web con ASP.NET WebForms.
+            Ofrece a los usuarios una manera intuitiva de gestionar y organizar sus artículos ofreciendo diferentes funcionalidades (Listado de Artículos, Búsqueda Avanzada, ABM Artículos, etc.).</p>
         </div>
       </td>
       <td width="50%">
         <div align="center">
-          <h3 align="center">Video Proyecto 2</h3>
-          <a href="https://github.com/ggonzalez1985/TPFinalNivel2_Gonzalez.git">
+          <h3 align="center">Catálogo de Artículos [.Net + SQL]</h3>
+          <a href="https://www.youtube.com/watch?v=SLwDc7Ksgps">
             <img src="https://drive.google.com/uc?export=view&id=14srx3URxePUPtLLxxrhhp9othhEUjzFy" width="400" alt="Video Proyecto 2" style="max-width: 100%; border: 2px solid #000; border-radius: 8px;">
           </a>
           <p>
             <a href="https://github.com/ggonzalez1985/TPFinalNivel2_Gonzalez.git">
               <img src="https://img.shields.io/badge/C%C3%93DIGO-00FBFF?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="GitHub Project 2" style="max-width: 100%;">
             </a>
-            <a href="https://www.youtube.com/watch?v=O-NJLU6kEts">
+            <a href="https://www.youtube.com/watch?v=SLwDc7Ksgps">
               <img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&amp;color=FF0000" alt="YouTube Video 2" style="max-width: 100%;">
             </a>
           </p>
-          <p>Descubre el proyecto 2 con un <strong>video explicativo</strong> y revisa el <strong>código fuente</strong> en GitHub.</p>
+          <p>Desarrollo de Aplicaciones con .NET Framework 4.8 y SQL Server. Permite a los usuarios manejar eficientemente sus artículos a través de diversas funcionalidades como (Visualización de Artículos, Consultas Avanzadas, Gestión Completa, etc.).</p>
         </div>
       </td>
     </tr>
