@@ -1,26 +1,78 @@
-## Holaaa...! Soy Gabriel...👋
+## Holaaa...! Soy Gabriel M. González👋🏻
 
-- ## Acerca de mí
-Soy Licenciado en Sistemas, especializado en el desarrollo .NET. Tengo experiencia en el desarrollo de aplicaciones web utilizando ASP.NET WebForms y estoy en un proceso de migración hacia arquitecturas modernas como microservicios con .NET 8. Además, tengo conocimientos en la implementación de ERPs y WMS, lo que me ha permitido trabajar en sectores como la industria maderera y bienes de consumo.
+## Acerca de mí
+Soy Licenciado en Sistemas, especializado en el desarrollo .NET. 
+Me enfoco en el desarrollo de aplicaciones web con un enfoque en ASP.NET WebForms y .NET Framework 4.8, utilizando SQL Server como base de datos, y gestiono mis proyectos en GitHub.
 
 - 🔭 Actualmente, estoy trabajando en proyectos de migración a microservicios y aprendiendo sobre .NET Core para modernizar mis aplicaciones.
-- 🌱 Me encuentro en constante aprendizaje, en temas como Docker, optimización de bases de datos, y validaciones en JavaScript.
+- 🌱 En constante aprendizaje, en temas como Docker, optimización de bases de datos, y validaciones en JavaScript.
 - 👯 Estoy buscando colaborar en proyectos que impliquen el uso de tecnologías modernas, especialmente en el ámbito de .NET.
-- 🤔 Estoy abierto a nuevas oportunidades laborales que me permitan seguir creciendo profesionalmente.
-- 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/ggonzalez1985/) o por email en gonzalezgabriel@ejemplo.com.
-- ⚡ Dato curioso: Además de mi pasión por la programación, me encanta seguir series como 'Messiah' en Netflix.
+- 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/ggonzalez1985/) o por email en gabrielgonzalez1985@gmail.com.
 
-- ## 💻 Herramientas y tecnologías:
+## 💻 Herramientas y tecnologías:
 - **Lenguajes:** C#, SQL
-- **Frameworks:** ASP.NET WebForms, .NET Framework
+- **Frameworks:** ASP.NET WebForms, .NET Framework 4.8
 - **Bases de datos:** SQL Server
-- **Otros:** HTML, CSS, Git, JavaScript, Jira.
+- **Otros:** JavaScript, HTML, CSS, Git, Jira
 
-- ## 🔗 Mis Redes Sociales
+## 🔗 Mis Redes Sociales
+
+<div align="left">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggonzalez1985/)
-
-- ## 📩 Contacto
-Puedes conocer más sobre mi trabajo y experiencia visitando mi [LinkedIn](https://www.linkedin.com/in/ggonzalez1985/) o echando un vistazo a mis proyectos aquí en GitHub:
-
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ggonzalez1985)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:gonzalezgabriel@ejemplo.com)
+
+</div>
+
+## 📩 Contacto 
+
+<div align="left">
+
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:gabrielgonzalez1985@gmail.com)
+
+</div>
+
+## 🎞️ Videos de Proyectos
+
+<table>
+  <tbody>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <h3 align="center">Video Proyecto 1</h3>
+          <a href="https://github.com/ggonzalez1985/TPFinalNivel3_Gonzalez.git">
+            <img src="https://drive.google.com/uc?export=view&id=1ToJ3l52RM3ifiQ1rHkWKJElduvJSTJf0" width="400" alt="Video Proyecto 1" style="max-width: 100%; border: 2px solid #000; border-radius: 8px;">
+          </a>
+          <p>
+            <a href="https://github.com/ggonzalez1985/TPFinalNivel3_Gonzalez.git">
+              <img src="https://img.shields.io/badge/C%C3%93DIGO-00FBFF?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="GitHub Project 1" style="max-width: 100%;">
+            </a>
+            <a href="https://www.youtube.com/watch?v=SLwDc7Ksgps">
+              <img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&amp;color=FF0000" alt="YouTube Video 1" style="max-width: 100%;">
+            </a>
+          </p>
+          <p>Aprende sobre el proyecto 1 con un <strong>video detallado</strong> y explora el <strong>código fuente</strong> en GitHub.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <h3 align="center">Video Proyecto 2</h3>
+          <a href="https://github.com/ggonzalez1985/TPFinalNivel2_Gonzalez.git">
+            <img src="https://drive.google.com/uc?export=view&id=14srx3URxePUPtLLxxrhhp9othhEUjzFy" width="400" alt="Video Proyecto 2" style="max-width: 100%; border: 2px solid #000; border-radius: 8px;">
+          </a>
+          <p>
+            <a href="https://github.com/ggonzalez1985/TPFinalNivel2_Gonzalez.git">
+              <img src="https://img.shields.io/badge/C%C3%93DIGO-00FBFF?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="GitHub Project 2" style="max-width: 100%;">
+            </a>
+            <a href="https://www.youtube.com/watch?v=O-NJLU6kEts">
+              <img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&amp;color=FF0000" alt="YouTube Video 2" style="max-width: 100%;">
+            </a>
+          </p>
+          <p>Descubre el proyecto 2 con un <strong>video explicativo</strong> y revisa el <strong>código fuente</strong> en GitHub.</p>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
