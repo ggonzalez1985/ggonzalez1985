@@ -14,7 +14,7 @@ Soy Licenciado en Sistemas, especializado en el desarrollo .NET. Tengo experienc
 - **Lenguajes:** C#, SQL
 - **Frameworks:** ASP.NET WebForms, .NET Framework
 - **Bases de datos:** SQL Server
-- **Otros:** HTML, CSS, Git, JavaScript, Jira
+- **Otros:** HTML, CSS, Git, JavaScript, Jira.
 
 - ## 🔗 Mis Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggonzalez1985/)
