@@ -1,4 +1,4 @@
-![Portafolio](https://drive.google.com/uc?export=view&id=1gPW56i7z9g-ZRdypHXHI0qM6OAeo_qHf)
+![Portafolio](https://drive.google.com/uc?export=view&id=1pi7tGIkCll2ZTC6QIuQMgFw4Ymmoq1Fx)
 
 ## Holaaa...! Soy Gabriel M. González👋🏻
 
