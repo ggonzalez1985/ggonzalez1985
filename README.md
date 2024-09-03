@@ -1,4 +1,4 @@
-![Portafolio](https://drive.google.com/uc?export=view&id=1pi7tGIkCll2ZTC6QIuQMgFw4Ymmoq1Fx)
+![Portafolio](https://drive.google.com/uc?export=view&id=1iSIPANg6JZuwVWMe1ZpLcM-edeKWYb0Y)
 
 ## Holaaa...! Soy Gabriel...👋🏻
 
