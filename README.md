@@ -1,7 +1,7 @@
 ## Holaaa...! Soy Gabriel...👋🏻 
 ![Portafolio](https://drive.google.com/uc?export=view&id=1exikitx1QYNGaj7sPriC6z6YKngSlUW8)
 
-## 👀 Visitas al perfil 👉🏻 ![Profile views](https://komarev.com/ghpvc/?username=ggonzalez1985&color=0E9C47&style=for-the-badge)
+## Visitas al perfil 👉🏻 ![Profile views](https://komarev.com/ghpvc/?username=ggonzalez1985&color=0E9C47&style=for-the-badge) 👈🏻
 
 
 ## 📊 Estadísticas de GitHub y 🌟 Racha de Contribuciones
