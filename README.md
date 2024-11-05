@@ -5,8 +5,8 @@
 
 
 ## 📊 Estadísticas de GitHub y 🌟 Racha de Contribuciones
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggonzalez1985&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggonzalez1985&layout=compact&theme=default)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggonzalez1985&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggonzalez1985&layout=compact&theme=radical)
 ![Gabriel's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ggonzalez1985&theme=mono-dark)
 
 
