@@ -1,6 +1,6 @@
 ![Portafolio](https://drive.google.com/uc?export=view&id=1iSIPANg6JZuwVWMe1ZpLcM-edeKWYb0Y)
-
-## Holaaa...! Soy Gabriel...👋🏻
+![Profile views](https://komarev.com/ghpvc/?username=ggonzalez1985&color=0E9C47&style=for-the-badge)
+## Holaaa...! Soy Gabriel...👋🏻 
 
 ## Acerca de mí...
 Soy Licenciado en Sistemas, especializado en el desarrollo .NET. 
