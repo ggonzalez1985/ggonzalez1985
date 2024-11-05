@@ -1,6 +1,14 @@
-![Portafolio](https://drive.google.com/uc?export=view&id=1iSIPANg6JZuwVWMe1ZpLcM-edeKWYb0Y)
-![Profile views](https://komarev.com/ghpvc/?username=ggonzalez1985&color=0E9C47&style=for-the-badge)
 ## Holaaa...! Soy Gabriel...👋🏻 
+![Portafolio](https://drive.google.com/uc?export=view&id=1exikitx1QYNGaj7sPriC6z6YKngSlUW8)
+
+## 👀 Visitas al perfil:
+![Profile views](https://komarev.com/ghpvc/?username=ggonzalez1985&color=0E9C47&style=for-the-badge)
+
+## 📊 Estadísticas de GitHub y 🌟 Racha de Contribuciones
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggonzalez1985&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggonzalez1985&layout=compact&theme=radical)
+![Gabriel's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ggonzalez1985&theme=mono-dark)
+
 
 ## Acerca de mí...
 Soy Licenciado en Sistemas, especializado en el desarrollo .NET. 
@@ -10,26 +18,6 @@ Me enfoco en el desarrollo de aplicaciones web con un enfoque en ASP.NET WebForm
 - 🌱 En constante aprendizaje, en temas como Docker, optimización de bases de datos, y validaciones en JavaScript.
 - 👯 Estoy buscando colaborar en proyectos que impliquen el uso de tecnologías modernas, especialmente en el ámbito de .NET.
 - 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/ggonzalez1985/) o por email en gabrielgonzalez1985@gmail.com.
-
-## 📊 Estadísticas de GitHub y 🌟 Racha de Contribuciones
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/ggonzalez1985">
-          <img src="https://github-readme-stats.vercel.app/api?username=ggonzalez1985&show_icons=true&count_private=true&theme=radical" alt="Gabriel's GitHub stats" width="400" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ggonzalez1985">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggonzalez1985&theme=dark" alt="GitHub Streak" width="400" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 
 ## 💻 Herramientas y tecnologías...
 - **Lenguajes:** C#, SQL
