@@ -1,12 +1,12 @@
 ## Holaaa...! Soy Gabriel...👋🏻 
 ![Portafolio](https://drive.google.com/uc?export=view&id=1exikitx1QYNGaj7sPriC6z6YKngSlUW8)
 
-## 👀 Visitas al perfil:
-![Profile views](https://komarev.com/ghpvc/?username=ggonzalez1985&color=0E9C47&style=for-the-badge)
+## 👀 Visitas al perfil 👉🏻 ![Profile views](https://komarev.com/ghpvc/?username=ggonzalez1985&color=0E9C47&style=for-the-badge)
+
 
 ## 📊 Estadísticas de GitHub y 🌟 Racha de Contribuciones
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggonzalez1985&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggonzalez1985&layout=compact&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggonzalez1985&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggonzalez1985&layout=compact&theme=default)
 ![Gabriel's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ggonzalez1985&theme=mono-dark)
 
 
