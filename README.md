@@ -5,9 +5,31 @@
 
 
 ## 📊 Estadísticas de GitHub y 🌟 Racha de Contribuciones
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggonzalez1985&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggonzalez1985&layout=compact&theme=radical)
-![Gabriel's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ggonzalez1985&theme=mono-dark)
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ggonzalez1985">
+          <img src="https://github-readme-stats.vercel.app/api?username=ggonzalez1985&show_icons=true&count_private=true&theme=radical" alt="Gabriel's GitHub stats" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ggonzalez1985">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggonzalez1985&theme=dark" alt="GitHub Streak" width="400" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## 📚 Lenguajes más usados
+
+<a href="https://github.com/ggonzalez1985">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggonzalez1985&layout=compact&theme=radical" alt="Top Langs" width="350" />
+</a>
+
+
 
 
 ## Acerca de mí...
